@@ -1,7 +1,12 @@
+/*Antonio Lopez Garcia
+Quiz
+12 September 2017
+Ray Ahmadnia
+Purpose: calulate r= [20 * (a+b) * (a-b)] / (a^3)*c]
+*/
+
 #include <iostream>
 using namespace std;
-
-//calulate r= [20 * (a+b) * (a-b)] / (a^3)*c]
 
 int main() {
 	short a = 5, b = 7, c = 2, d, r;
